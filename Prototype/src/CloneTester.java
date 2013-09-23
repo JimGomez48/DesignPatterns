@@ -5,7 +5,6 @@ public class CloneTester
     /** @param args  */
     public static void main(String[] args)
     {
-
         AnimalCloneFactory factory = new AnimalCloneFactory();
 
         Dog dog = new Dog();
